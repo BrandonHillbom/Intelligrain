@@ -1,4 +1,4 @@
-# Agritron
+# Intelligrain
 
 ## Vlogs
 Visit [Vlog 1](https://youtu.be/Toy1HftnyPE) for more information regarding the project background, business need, and impact.
