@@ -2,6 +2,7 @@
 
 ## Vlogs
 Visit [Vlog 1](https://youtu.be/Toy1HftnyPE) for more information regarding the project background, business need, and impact.
+
 Visit [Vlog2](https://youtu.be/We1OJHhkhQY) for our December update regarding our project.
 
 
