@@ -1,5 +1,7 @@
 # Intelligrain
 
+Please note our code is unavaliable as it is private to Ground Truth Ag.
+
 ## Vlogs
 Visit [Vlog 1](https://youtu.be/Toy1HftnyPE) for more information regarding the project background, business need, and impact.
 
