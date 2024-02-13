@@ -9,9 +9,11 @@ Growing up in Saskatchewan, we are very cognizant of the impact farmers have on 
 Please note our code is unavaliable as it is private to Ground Truth Ag.
 
 ## Vlogs
-Visit [Vlog 1](https://youtu.be/Toy1HftnyPE) for more information regarding the project background, business need, and impact.
+Watch [Vlog 1](https://youtu.be/Toy1HftnyPE) for more information regarding the project background, business need, and impact.
 
-Visit [Vlog2](https://youtu.be/We1OJHhkhQY) for our December update regarding our project.
+Watch [Vlog 2](https://youtu.be/We1OJHhkhQY) for our December update regarding our project.
+
+Watch [Vlog 3](https://youtu.be/Zb2wRc0I1tQ) for our February update
 
 
 ## License
