@@ -15,6 +15,9 @@ Watch [Vlog 2](https://youtu.be/We1OJHhkhQY) for our December update regarding o
 
 Watch [Vlog 3](https://youtu.be/Zb2wRc0I1tQ) for our February update
 
+Watch [Final Demo](https://youtu.be/B6-TwIhb4jU) for our final update
+
+Watch our [Commercial](https://www.youtube.com/watch?v=8fbDh2gRxqQ&feature=youtu.be)
 
 ## License
 All Rights Reserved.
